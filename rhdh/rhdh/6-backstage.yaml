@@ -25,3 +25,5 @@ spec:
       enabled: true
       host: rhdh.apps.ocprod.303.tube
       subdomain: apps.ocprod.303.tube
+  dynamicPluginsConfigMapName: dynamic-plugins-rhdh
+
